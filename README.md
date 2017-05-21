@@ -1,2 +1,2 @@
 # Flappybird
-Simple and immersive flappy bird iOS game
+Simple and immersive flappybird iOS game based on Objective-C
